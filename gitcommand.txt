@@ -1,0 +1,145 @@
+    1  pwd
+    2  ls
+    3  cd C:\pleiades\2022-09\workspace
+    4  git init
+    5  git status
+    6  pwd
+    7  cd C:\pleiades\2022-09\workspace
+    8  ls
+    9  cd ./
+   10  ls
+   11  cd ../
+   12  ls
+   13  cd ../
+   14  pwd
+   15  ls
+   16  cd /pleiades
+   17  cd /pleiades/
+   18  cd ./pleiades/
+   19  ls
+   20  cd ./2022-09
+   21  ls
+   22  cd ./workspace
+   23  ls
+   24  git init
+   25  git status
+   26  git clone https://github.com/spring-projects/spring-boot.git
+   27  git status
+   28  ls
+   29  git status
+   30  git status
+   31  git init
+   32  git status
+   33  git git add .
+   34  git add .
+   35  git status
+   36  git remote add origin https://github.com/SK0000007/java-practice.git
+   37  git push -u origin main
+   38  git commit -m "first commit"
+   39    git config --global user.email "you@example.com"
+   40    git config --global user.name "Your Name"
+   41  git commit -m "first commit"
+   42  git push -u origin main
+   43  git status
+   44  git push origin
+   45  git push --set-upstream origin master
+   46  git status
+   47  git branch
+   48  git log
+   49  git branch -a
+   50  git checkout remotes
+   51  git checkout origin
+   52  git branch aoyama
+   53  git branch -a
+   54  gti checkout aoyama
+   55  git checkout aoyama
+   56  git status
+   57  git git digg aoyama master
+   58  git git diff aoyama master
+   59  git diff aoyama master
+   60  git diff aoyama master
+   61  git log
+   62  git status
+   63  git diff
+   64  git commit "syokisettei end but ugokanai"
+   65  git commit -m "syokisettei end but ugokanai"
+   66  git add .
+   67  git log
+   68  git commit -m "syokisettei end but ugokanai"
+   69  git log
+   70  git status
+   71  git push
+   72  git push origin aoyama
+   73  git add .
+   74  git commit -m "一か所変えたら動いた"
+   75  git push
+   76  git push origin aoyama
+   77  ssh -i "awskeypair_20230130.pem" ubuntu@ec2-13-113-174-236.ap-northeast-1.compute.amazonaws.com
+   78  ssh -i "awskeypair_20230130.pem" ubuntu@ec2-13-113-174-236.ap-northeast-1.compute.amazonaws.com
+   79  ssh -i "awskeypair_20230130.pem" ubuntu@ec2-13-113-174-236.ap-northeast-1.compute.amazonaws.com
+   80  git config -l
+   81  ls
+   82  cd test230202/TestCode/
+   83  ls
+   84  git status
+   85  git push origin
+   86  git config -l
+   87  cd test230202/
+   88  cd TestCode/
+   89  git status
+   90  git config -l
+   91  git push
+   92  git remote set-url origin https://007kzm@github.com/007kzm/hirano-jbn/TestCode.git
+   93  git push
+   94  git remote set-url origin https://hirano-jbn@github.com/hirano-jbn/TestCode.git
+   95  git push
+   96  git push
+   97  git push
+   98  git status
+   99  git add .
+  100  git commit -m "hello"
+  101  git push
+  102  git push -u origin master
+  103  git pull origin master
+  104  git status
+  105  git add .
+  106  git commit -m "hello"
+  107  git push origin master
+  108  git -d develop
+  109  git -b develop
+  110  git chekout -b develop
+  111  git chekout -b develop
+  112  git chekout -d develop
+  113  git checkout -d develop
+  114  git checkout -b develop
+  115  git status
+  116  git add .
+  117  git commit -m "edit from local develop -b"
+  118  git push origin develop
+  119  git checkout master
+  120  git status
+  121  git merge develop 
+  122  git status
+  123  git push origin master
+  124  git checkout develop 
+  125  git status
+  126  git add .
+  127  git commit -m "develop 2nd edit"
+  128  git checkout master
+  129  git merge develop 
+  130  git push origin master
+  131  git branch
+  132  git checkout  develop 
+  133  git checkout  master 
+  134  git status
+  135  git checkout develop 
+  136  git status
+  137  git add .
+  138  git status
+  139  git checkout master
+  140  git branch
+  141  git checkout master
+  142  git status
+  143  git checkout develop 
+  144  git status
+  145  history > gitcommand.txt
